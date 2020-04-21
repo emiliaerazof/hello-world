@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hello everyone!
+My name is Emilia and I love pizza.
